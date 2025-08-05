@@ -162,7 +162,7 @@ Feel free to fork, star, or contribute your own:
 
 ## 🛠 Made By
 
-This repository is maintained by an aspiring EV entrepreneur and engineer with a vision to make affordable, scalable charging infrastructure for India and beyond.
+This repository is maintained by an EV enthusiast and engineer with a vision to make affordable, scalable charging infrastructure for India and beyond.
 
 ---
 
